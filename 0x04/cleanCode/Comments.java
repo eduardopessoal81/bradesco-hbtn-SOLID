@@ -15,7 +15,7 @@ public class Comments {
     }
 
     /**
-     * Publica resultados com base na data.
+     * este método publica resultados com base na data
      *
      * @param date data a partir da qual os resultados devem ser publicados
      * @return Lista de entidades de resultado
